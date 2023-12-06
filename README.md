@@ -10,3 +10,7 @@ Try the experience of dbdocs
 - [x] First dbdocs 
     - 🔴 No local preview
     - 🔴 Account registration needed
+- [x] Password Protection
+    - 🟢 Easy set-up
+- [x] CI Integration
+    - 🔴 Example wrong formatted

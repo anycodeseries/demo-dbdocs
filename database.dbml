@@ -2,7 +2,7 @@ Project Ecommerce {
   database_type: 'PostgreSQL'
   Note: '''
     # Ecommerce Database
-    **markdown content here**
+    Demo DBDOCS
   '''
 }
 Table users as U {
